@@ -1,0 +1,19 @@
+.label-style {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.label-style-message {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-content: stretch;
+}
+
+.container {
+    display: flex;
+    justify-content: center;  /* Align Horizontally */
+    align-items: center;      /* Align Vertically */
+    height: 100px;
+}
